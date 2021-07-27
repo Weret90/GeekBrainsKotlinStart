@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GeekBrains Kotlin Start</string>
+    <string name="button_text">press me</string>
+    <string name="text_view_start_text">Press on button counter</string>
+    <string name="label_data_class">Data class</string>
+    <string name="label_data_class_copy">Data class copy</string>
 </resources>
